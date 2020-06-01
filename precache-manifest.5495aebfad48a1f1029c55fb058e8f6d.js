@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c902584dd8f5ae3f4469e5f1e0244844",
+    "revision": "2e987c393822dbaaa3516fd626b38f3b",
     "url": "/never0lie.github.io/monster/index.html"
   },
   {
-    "revision": "5cb93f628a0e7c2f52c9",
+    "revision": "557174b530cccd2eec77",
     "url": "/never0lie.github.io/monster/static/css/main.f0e389b2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/never0lie.github.io/monster/static/js/2.f9462cd0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5cb93f628a0e7c2f52c9",
-    "url": "/never0lie.github.io/monster/static/js/main.188f132c.chunk.js"
+    "revision": "557174b530cccd2eec77",
+    "url": "/never0lie.github.io/monster/static/js/main.25ce034e.chunk.js"
   },
   {
     "revision": "ce15dd2156765cbdb167",
