@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/monster/static/css/main.f0e389b2.chunk.css",
-    "main.js": "/monster/static/js/main.9e8dc6ad.chunk.js",
-    "main.js.map": "/monster/static/js/main.9e8dc6ad.chunk.js.map",
-    "runtime-main.js": "/monster/static/js/runtime-main.279536a6.js",
-    "runtime-main.js.map": "/monster/static/js/runtime-main.279536a6.js.map",
-    "static/js/2.f9462cd0.chunk.js": "/monster/static/js/2.f9462cd0.chunk.js",
-    "static/js/2.f9462cd0.chunk.js.map": "/monster/static/js/2.f9462cd0.chunk.js.map",
-    "index.html": "/monster/index.html",
-    "precache-manifest.dc06549d3e7d5e5fdad87d69aea3d724.js": "/monster/precache-manifest.dc06549d3e7d5e5fdad87d69aea3d724.js",
-    "service-worker.js": "/monster/service-worker.js",
-    "static/css/main.f0e389b2.chunk.css.map": "/monster/static/css/main.f0e389b2.chunk.css.map",
-    "static/js/2.f9462cd0.chunk.js.LICENSE.txt": "/monster/static/js/2.f9462cd0.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/monster/static/media/logo.5d5d9eef.svg"
+    "main.css": "/never0lie.github.io/monster/static/css/main.f0e389b2.chunk.css",
+    "main.js": "/never0lie.github.io/monster/static/js/main.188f132c.chunk.js",
+    "main.js.map": "/never0lie.github.io/monster/static/js/main.188f132c.chunk.js.map",
+    "runtime-main.js": "/never0lie.github.io/monster/static/js/runtime-main.c7a03a0f.js",
+    "runtime-main.js.map": "/never0lie.github.io/monster/static/js/runtime-main.c7a03a0f.js.map",
+    "static/js/2.f9462cd0.chunk.js": "/never0lie.github.io/monster/static/js/2.f9462cd0.chunk.js",
+    "static/js/2.f9462cd0.chunk.js.map": "/never0lie.github.io/monster/static/js/2.f9462cd0.chunk.js.map",
+    "index.html": "/never0lie.github.io/monster/index.html",
+    "precache-manifest.48a5a0ce28ea24051afaf2cd586b74e8.js": "/never0lie.github.io/monster/precache-manifest.48a5a0ce28ea24051afaf2cd586b74e8.js",
+    "service-worker.js": "/never0lie.github.io/monster/service-worker.js",
+    "static/css/main.f0e389b2.chunk.css.map": "/never0lie.github.io/monster/static/css/main.f0e389b2.chunk.css.map",
+    "static/js/2.f9462cd0.chunk.js.LICENSE.txt": "/never0lie.github.io/monster/static/js/2.f9462cd0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/never0lie.github.io/monster/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.279536a6.js",
+    "static/js/runtime-main.c7a03a0f.js",
     "static/js/2.f9462cd0.chunk.js",
     "static/css/main.f0e389b2.chunk.css",
-    "static/js/main.9e8dc6ad.chunk.js"
+    "static/js/main.188f132c.chunk.js"
   ]
 }
