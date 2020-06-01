@@ -19,6 +19,10 @@ class App extends Component{
     .then(response => response.json())
     .then(users => this.setState({monsters : users}));
   }
+
+  handleChange = (e) => {
+    this.setState( { searchField: e.target.value } )
+  }
   
   render() {
     const { monsters, searchField } = this.state;
@@ -31,7 +35,7 @@ class App extends Component{
       <h1>Monsters Rolodex</h1>
       <SearchBox 
         placeholder = 'search monsters'
-        handleChange = {e => this.setState({searchField: e.target.value})}
+        handleChange = {this.handleChange}
       />
       <CardList monsters = {filteredMonsters} />
       </div>
